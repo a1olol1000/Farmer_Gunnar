@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ogz3cofMmiktuccNd+tRyadXjrjOyH9o7FnHEO7XS/mToJthbwukZWyqqMGaxDza+NhkxgIapMVqO7uNqyQS7Q==",
+  "dgSpecHash": "TvHleY0ss9V6yrDRDlgybJUVyc67oz8vwhVytspMeIYcfwOgZOlC3/tKYcLlZoEwcIFg28/Hz2fiOhkhxQD9hw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albin.lindqvist1\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\albin.lindqvist1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

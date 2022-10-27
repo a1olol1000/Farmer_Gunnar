@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj": {}
+    "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj": {
+    "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
+        "projectUniqueName": "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
         "projectName": "Farmer_Gunnar",
-        "projectPath": "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
+        "projectPath": "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\Farmer_Gunnar.csproj",
         "packagesPath": "C:\\Users\\albin.lindqvist1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\obj\\",
+        "outputPath": "C:\\Users\\albin.lindqvist1\\vs code prprpr\\Farmer_Gunnar\\Farmer_Gunnar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
